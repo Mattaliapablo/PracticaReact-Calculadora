@@ -12,6 +12,7 @@
   font-weight: bold;
   border: 2px solid white;
   border-radius: 50px;
+  user-select: none;
 }
 
 .boton-clear:hover {
